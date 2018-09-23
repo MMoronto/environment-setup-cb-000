@@ -16,7 +16,7 @@ First, we need to get set up with the Learn IDE. Follow the instructions below:
 If you have any trouble getting the Learn IDE installed, use the chat icon on the bottom right of the page to get help or see if your issue is listed in our [Help Center](https://help.learn.co/hc/en-us/categories/204144547-The-Learn-IDE). We know this part can be a pain, but you only have to do it once.
 
 ## About the Learn IDE
-
+http://localhost:8888/
 The Learn IDE is built on top of Atom, the text editor by the amazing people at GitHub. The Learn IDE uses the same open-source technologies that thousands of professional developers use everyday, so when you're using the Learn IDE, you're using the same real tools that developers use. 
 
 When you open the Learn IDE, you'll see three main components: the file browser, the text editor and the terminal. Let's talk about each of those. 
